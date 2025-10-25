@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // IMPORTANT: Replace 'arduino-learning-hub' with the name of your GitHub repository.
-  base: '/arduino-learning-hub/', 
+  base: '/arduinotest/', 
 })
