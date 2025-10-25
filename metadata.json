@@ -1,0 +1,5 @@
+{
+  "name": "Arduino Learning Hub",
+  "description": "An interactive, multi-language web application (English and Vietnamese) to learn Arduino from basics to advanced applications. Based on the 'GIÁO TRÌNH ARDUINO TỪ CƠ BẢN ĐẾN ỨNG DỤNG' textbook, it provides structured lessons, in-depth code examples, and practical projects.",
+  "requestFramePermissions": []
+}
